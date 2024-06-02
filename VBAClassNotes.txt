@@ -1,1 +1,2 @@
 Create an Excel VBA class with Derek Henry
+This is the second line to test the process
